@@ -17,6 +17,7 @@ public class Test {
 
         Object[] elementData = new Object[2];
         int i=0;
+        
 
         elementData[i++] = "s";
         logger.info(elementData.length+"");
