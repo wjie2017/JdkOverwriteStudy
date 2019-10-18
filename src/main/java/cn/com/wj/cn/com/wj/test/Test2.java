@@ -14,6 +14,8 @@ public class Test2 {
     protected static final Logger logger = LoggerFactory.getLogger(Test2.class);
 
     public static void main(String[] args) {
-             logger.info("我是master分支");
+
+        //修改
+        logger.info("我是master分支");
     }
 }
